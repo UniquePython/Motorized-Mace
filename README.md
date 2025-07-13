@@ -57,8 +57,8 @@ You can adjust:
 
 ## 📸 Photos & Diagrams
 
-![Wiring Diagram](images/wiring.png)  
-![Schematic Diagram](images/schematic.png)  
+![Wiring Diagram](visual.png)  
+![Schematic Diagram](schematic.png)  
 
 ---
 
